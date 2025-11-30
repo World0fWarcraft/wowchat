@@ -470,6 +470,7 @@
 750,Explore Northern Barrens
 753,Average gold earned per day
 759,Average daily quests completed per day
+760,Explore Alterac Mountains
 761,Explore Arathi Highlands
 762,Ambassador of the Horde
 763,The Burning Crusader
@@ -627,6 +628,7 @@
 967,Tricks and Treats of Eastern Kingdoms
 968,Tricks and Treats of Outland
 969,Tricks and Treats of Outland
+970,Tricks and Treats of Azeroth
 971,Tricks and Treats of Azeroth
 972,Trick or Treat!
 973,5 Daily Quests Complete
@@ -745,9 +747,12 @@
 1165,My Sack is "Gigantique"
 1166,To the Looter Go the Spoils
 1167,Master of Alterac Valley
+1168,Master of Alterac Valley
 1169,Master of Arathi Basin
+1170,Master of Arathi Basin
 1171,Master of Eye of the Storm
 1172,Master of Warsong Gulch
+1173,Master of Warsong Gulch
 1174,The Arena Master
 1175,Battlemaster
 1176,Got My Mind On My Money
@@ -760,6 +765,7 @@
 1184,Strange Brew
 1185,The Brewfest Diet
 1186,Down With The Dark Iron
+1187,The Keymaster
 1188,Shafted!
 1189,To Hellfire and Back
 1190,Mysteries of the Marsh
@@ -815,6 +821,7 @@
 1271,To Hellfire and Back
 1272,Terror of Terokkar
 1273,Nagrand Slam
+1274,Loremaster of Outland
 1275,Bombs Away
 1276,Blade's Edge Bomberman
 1277,Rapid Defense
@@ -857,6 +864,7 @@
 1357,Fo' Grizzle My Shizzle
 1358,Nothing Boring About Borean
 1359,Might of Dragonblight
+1360,Loremaster of Northrend
 1361,Anub'Rekhan kills (Naxxramas 10 player)
 1362,Grand Widow Faerlina kills (Naxxramas 10 player)
 1363,Maexxna kills (Naxxramas 10 player)
@@ -997,10 +1005,16 @@
 1637,Spirit of Competition
 1638,Skyshattered
 1656,Hallowed Be Thy Name
+1657,Hallowed Be Thy Name
 1658,Champion of the Frozen Wastes
 1676,Loremaster of Eastern Kingdoms
+1677,Loremaster of Eastern Kingdoms
 1678,Loremaster of Kalimdor
+1680,Loremaster of Kalimdor
+1681,The Loremaster
+1682,The Loremaster
 1683,Brewmaster
+1684,Brewmaster
 1685,Bros. Before Ho Ho Ho's
 1686,Bros. Before Ho Ho Ho's
 1687,Let It Snow
@@ -1008,6 +1022,7 @@
 1689,He Knows If You've Been Naughty
 1690,A Frosty Shake
 1691,Merrymaker
+1692,Merrymaker
 1693,Fool For Love
 1694,Lovely Luck Is On Your Side
 1695,Dangerous Love
@@ -1022,6 +1037,7 @@
 1704,I Pitied The Fool
 1705,Clockwork Rocket Bot
 1706,Crashin' Thrashin' Racer
+1707,Fool For Love
 1716,Battleground with the most Killing Blows
 1717,Wintergrasp Victory
 1718,Wintergrasp Veteran
@@ -1070,6 +1086,7 @@
 1781,Critter Gitter
 1782,Our Daily Bread
 1783,Our Daily Bread
+1784,Hail to the Chef
 1785,Dinner Impossible
 1786,School of Hard Knocks
 1788,Bad Example
@@ -1184,6 +1201,7 @@
 2142,Filling Up The Barn
 2143,Leading the Cavalry
 2144,What a Long, Strange Trip It's Been
+2145,What A Long, Strange Trip It's Been
 2146,The Hundred Club (10 player)
 2147,The Hundred Club (25 player)
 2148,Denyin' the Scion (10 player)
@@ -1215,6 +1233,7 @@
 2192,Not Even a Scratch
 2193,Explosives Expert
 2194,Master of Strand of the Ancients
+2195,Master of Strand of the Ancients
 2199,Wintergrasp Ranger
 2200,Defense of the Ancients
 2219,Total deaths in 5-player Heroic dungeons
@@ -1266,6 +1285,7 @@
 2771,Exalted Champion of the Horde
 2772,Tilted!
 2773,It's Just a Flesh Wound
+2776,Master of Wintergrasp
 2777,Champion of Darnassus
 2778,Champion of the Exodar
 2779,Champion of Gnomeregan
@@ -1279,6 +1299,7 @@
 2787,Champion of the Undercity
 2788,Champion of the Horde
 2796,Brew of the Month
+2797,Noble Gardener
 2798,Noble Gardener
 2816,Exalted Argent Champion of the Horde
 2817,Exalted Argent Champion of the Alliance
@@ -1491,6 +1512,7 @@
 3597,Pilgrim's Progress
 3618,Murkimus the Gladiator
 3636,Jade Tiger
+3656,Pilgrim
 3676,A Silver Confidant
 3677,The Sunreavers
 3736,Pony Up!
@@ -1512,6 +1534,7 @@
 3810,A Tribute to Insanity (10 player)
 3812,Call of the Grand Crusade (25 player)
 3813,Upper Back Pain (25 player)
+3814,Resilience Will Fix It (25 player)
 3815,Salt and Pepper (25 player)
 3816,The Traitor King (25 player)
 3817,A Tribute to Skill (25 player)
@@ -1519,6 +1542,12 @@
 3819,A Tribute to Insanity (25 player)
 3836,Koralon the Flame Watcher (10 player)
 3837,Koralon the Flame Watcher (25 player)
+3838,Dungeon & Raid Emblem
+3839,25 Dungeon & Raid Emblems
+3840,50 Dungeon & Raid Emblems
+3841,100 Dungeon & Raid Emblems
+3842,250 Dungeon & Raid Emblems
+3843,500 Dungeon & Raid Emblems
 3844,1000 Dungeon & Raid Emblems
 3845,Isle of Conquest All-Star
 3846,Resource Glut
@@ -1533,6 +1562,7 @@
 3855,Glaive Grave
 3856,Demolition Derby
 3857,Master of Isle of Conquest
+3876,1500 Dungeon & Raid Emblems
 3896,Onyx Panther
 3916,Call of the Crusade (25 player)
 3917,Call of the Crusade (10 player)
@@ -1758,6 +1788,8 @@
 4777,Isle of Conquest Killing Blows
 4779,Isle of Conquest Honorable Kills
 4782,Green Brewfest Stein
+4784,Emblematic
+4785,Emblematic
 4786,Operation: Gnomeregan
 4790,Zalazane's Fall
 4815,The Twilight Destroyer (25 player)
