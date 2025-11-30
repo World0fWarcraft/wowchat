@@ -157,6 +157,9 @@
 319,Duels won
 320,Duels lost
 321,Total raid and dungeon deaths
+322,Total deaths to Lich King dungeon bosses
+323,Total deaths to Lich King 10-player raid bosses
+324,Total deaths to Lich King 25-player raid bosses
 326,Gold from quest rewards
 328,Total gold acquired
 329,Auctions posted
@@ -165,6 +168,7 @@
 332,Most expensive auction sold
 333,Gold looted
 334,Most gold ever owned
+336,Legendary items acquired
 338,Vanity pets owned
 339,Mounts owned
 341,Epic items looted
@@ -468,6 +472,7 @@
 735,Working Day and Night
 736,Explore Mulgore
 750,Explore Northern Barrens
+752,Deaths in Naxxramas
 753,Average gold earned per day
 759,Average daily quests completed per day
 760,Explore Alterac Mountains
@@ -779,6 +784,7 @@
 1199,Professions learned
 1200,Secondary skills at maximum skill
 1201,Professions at maximum skill
+1202,Weapon skills at maximum skill
 1203,Strange Brew
 1205,Hero of Shattrath
 1206,To All The Squirrels I've Loved Before
@@ -802,6 +808,7 @@
 1250,Shop Smart, Shop Pet...Smart
 1251,Not In My House
 1252,Supreme Defender
+1253,Raised as a ghoul
 1254,Friend or Fowl?
 1255,Scrooge
 1257,The Scavenger
@@ -1236,6 +1243,9 @@
 2195,Master of Strand of the Ancients
 2199,Wintergrasp Ranger
 2200,Defense of the Ancients
+2216,Most deadly Lich King dungeon boss
+2217,Most deadly Lich King 10-player raid boss
+2218,Most deadly Lich King 25-player raid boss
 2219,Total deaths in 5-player Heroic dungeons
 2256,Northern Exposure
 2257,Frostbitten
@@ -1496,6 +1506,7 @@
 3457,The Captain's Booty
 3478,Pilgrim
 3496,A Brew-FAST Mount
+3516,Deaths in Ulduar
 3536,The Marine Marine
 3556,Pilgrim's Paunch
 3557,Pilgrim's Paunch
@@ -1786,7 +1797,10 @@
 4729,Emblems of Triumph acquired
 4730,Emblems of Frost acquired
 4777,Isle of Conquest Killing Blows
+4778,Disenchant rolls made on loot
 4779,Isle of Conquest Honorable Kills
+4780,Deaths in Trial of the Crusader
+4781,Deaths in Icecrown Citadel
 4782,Green Brewfest Stein
 4784,Emblematic
 4785,Emblematic
